@@ -19,6 +19,7 @@ MiniTalk is a simple communication program implemented in C using the client-ser
 ## Introduction <a id="introduction"></a>
 
 MiniTalk aims to establish a communication channel between a server and multiple clients using signals. The server listens for messages from clients and displays them, while clients can send messages to the server.
+For more check the [subject](subject.pdf)
 
 ## Usage <a id="usage"></a>
 
